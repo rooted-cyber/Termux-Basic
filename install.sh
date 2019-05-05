@@ -7,7 +7,7 @@ clear
 echo "$g Welcom to Termux Basic Commands $g"
 toilet -f mono12 -F border -F gay Termux
 toilet -f mono12 -F border -F gay Basics
-toilet -f mono12 -F border -F gay Commands
+
 echo " "
 echo "$y Now Installing Starts 10 seconds $y"
 echo " "
