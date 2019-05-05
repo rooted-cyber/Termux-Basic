@@ -1,6 +1,6 @@
 #!/bin/sh
-g='\033[3;92m'
-y='\033[3;93m'
+g='\033[1;92m'
+y='\033[1;93m'
 pkg install toilet
 pkg install figlet
 clear
@@ -11,7 +11,7 @@ toilet -f mono12 -F border -F gay Commands
 echo " "
 echo "$y Now Installing Starts 10 seconds $y"
 echo " "
-echo -e "\033[9;96m"
+echo -e "\033[1;96m"
 echo "10 seconds"
 sleep 1
 clear
@@ -42,7 +42,7 @@ clear
 echo " 1 second"
 sleep 1
 clear
-echo -e "\e[4;95m"
+echo -e "\033[1;95m"
 echo " Updating............ "
 sleep 1
 apt upgrade
