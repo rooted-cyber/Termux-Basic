@@ -142,6 +142,10 @@ clear
 echo " Installing termux-api....... "
 pkg install termux-api
 clear
+echo "Installing w3m......... "
+sleep 1
+pkg install w3m
+clear
 echo " Upgrading pip........ "
 pip install --upgrade pip
 clear
