@@ -10,6 +10,7 @@
 *******************************
 ye install karna easy hai 
 sirf ek command se ho jayega
-1)sh install.sh
+1)chmod 777 *
+2)./setup.sh
 isme basic commands install ho jayega
 
