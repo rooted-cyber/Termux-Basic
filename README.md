@@ -1,16 +1,12 @@
 # Termux-Basic
-###############################
-############################### 
-############################### 
-############################### 
-###############################
-############################### *
-****************************** 
-******************************* 
-*******************************
-ye install karna easy hai 
-sirf ek command se ho jayega
-1)chmod 777 *
-2)./setup.sh
-isme basic commands install ho jayega
+# Termux Installation
 
+<pre>
+ $ apt update
+ $ apt upgrade
+ $ apt install git
+ $ apt install figlet
+ $ git clone https://github.com/rooted-cyber/Termux-Basic
+ $ cd Termux-Basic
+ $ bash Install.sh
+ </pre>
