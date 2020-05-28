@@ -1,0 +1,3 @@
+lolcat
+speedtest-cli
+youtube-dl
