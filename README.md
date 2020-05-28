@@ -8,5 +8,5 @@
  $ apt install figlet
  $ git clone https://github.com/rooted-cyber/Termux-Basic
  $ cd Termux-Basic
- $ bash Install.sh
+ $ bash basic.sh
  </pre>
